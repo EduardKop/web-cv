@@ -1,0 +1,32 @@
+@media screen  and (max-width: 600px){
+    .education-content__name-Date{margin-left: 0px;}
+    .education-container{margin-top: 15px;}
+}
+@media screen  and (min-width: 700px){
+    .education-content__name-Date{margin-left: 150px;}
+    
+}
+
+.education-content__name{
+    display:flex;
+    justify-content: flex-start; 
+    font-family: 'Montserrat';
+    font-weight: bold;
+
+}
+.education-content__name-Date{
+
+}
+.education-content__desription h5{
+    margin-top: 5px;
+    font-family: 'Montserrat';
+
+}
+
+.education-container__item {
+    margin-top:25px
+}
+.first {
+    margin-top:0px
+
+}

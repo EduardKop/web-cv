@@ -1,0 +1,15 @@
+
+body {
+    width: 90%;
+margin: 0 auto;
+}
+
+.app-contents{
+    
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+      
+}
