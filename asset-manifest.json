@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/web-cv/static/css/main.da3400bd.chunk.css",
-    "main.js": "/web-cv/static/js/main.e7120ea6.chunk.js",
-    "main.js.map": "/web-cv/static/js/main.e7120ea6.chunk.js.map",
+    "main.css": "/web-cv/static/css/main.1c54c02e.chunk.css",
+    "main.js": "/web-cv/static/js/main.2426bd37.chunk.js",
+    "main.js.map": "/web-cv/static/js/main.2426bd37.chunk.js.map",
     "runtime-main.js": "/web-cv/static/js/runtime-main.3ed0a5aa.js",
     "runtime-main.js.map": "/web-cv/static/js/runtime-main.3ed0a5aa.js.map",
-    "static/js/2.131aa302.chunk.js": "/web-cv/static/js/2.131aa302.chunk.js",
-    "static/js/2.131aa302.chunk.js.map": "/web-cv/static/js/2.131aa302.chunk.js.map",
+    "static/js/2.64354bab.chunk.js": "/web-cv/static/js/2.64354bab.chunk.js",
+    "static/js/2.64354bab.chunk.js.map": "/web-cv/static/js/2.64354bab.chunk.js.map",
     "index.html": "/web-cv/index.html",
-    "static/css/main.da3400bd.chunk.css.map": "/web-cv/static/css/main.da3400bd.chunk.css.map",
-    "static/js/2.131aa302.chunk.js.LICENSE.txt": "/web-cv/static/js/2.131aa302.chunk.js.LICENSE.txt",
+    "static/css/main.1c54c02e.chunk.css.map": "/web-cv/static/css/main.1c54c02e.chunk.css.map",
+    "static/js/2.64354bab.chunk.js.LICENSE.txt": "/web-cv/static/js/2.64354bab.chunk.js.LICENSE.txt",
+    "static/media/1.634aebfc.png": "/web-cv/static/media/1.634aebfc.png",
     "static/media/profile.css": "/web-cv/static/media/19894.cd87e652.ttf",
     "static/media/2.44a67481.png": "/web-cv/static/media/2.44a67481.png",
-    "static/media/2k.36e836d5.png": "/web-cv/static/media/2k.36e836d5.png",
-    "static/media/4k.bab97350.png": "/web-cv/static/media/4k.bab97350.png",
+    "static/media/4.a595b163.png": "/web-cv/static/media/4.a595b163.png",
+    "static/media/5.5484607f.png": "/web-cv/static/media/5.5484607f.png",
+    "static/media/6.bd8820d0.png": "/web-cv/static/media/6.bd8820d0.png",
     "static/media/avatar.11c5a501.png": "/web-cv/static/media/avatar.11c5a501.png",
-    "static/media/k1.62c71b0c.png": "/web-cv/static/media/k1.62c71b0c.png",
-    "static/media/monzaMotorsportsImg1k.1e9c574d.png": "/web-cv/static/media/monzaMotorsportsImg1k.1e9c574d.png"
+    "static/media/creactiveAgencyIMG.d7845ee2.png": "/web-cv/static/media/creactiveAgencyIMG.d7845ee2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3ed0a5aa.js",
-    "static/js/2.131aa302.chunk.js",
-    "static/css/main.da3400bd.chunk.css",
-    "static/js/main.e7120ea6.chunk.js"
+    "static/js/2.64354bab.chunk.js",
+    "static/css/main.1c54c02e.chunk.css",
+    "static/js/main.2426bd37.chunk.js"
   ]
 }
