@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/web-cv/static/css/main.6c7cee40.chunk.css",
-    "main.js": "/web-cv/static/js/main.072e4cc4.chunk.js",
-    "main.js.map": "/web-cv/static/js/main.072e4cc4.chunk.js.map",
+    "main.js": "/web-cv/static/js/main.2749fe23.chunk.js",
+    "main.js.map": "/web-cv/static/js/main.2749fe23.chunk.js.map",
     "runtime-main.js": "/web-cv/static/js/runtime-main.3ed0a5aa.js",
     "runtime-main.js.map": "/web-cv/static/js/runtime-main.3ed0a5aa.js.map",
     "static/js/2.64354bab.chunk.js": "/web-cv/static/js/2.64354bab.chunk.js",
@@ -16,6 +16,8 @@
     "static/media/4.a595b163.png": "/web-cv/static/media/4.a595b163.png",
     "static/media/5.5484607f.png": "/web-cv/static/media/5.5484607f.png",
     "static/media/6.bd8820d0.png": "/web-cv/static/media/6.bd8820d0.png",
+    "static/media/7.096fd477.jpg": "/web-cv/static/media/7.096fd477.jpg",
+    "static/media/8.a01829ce.jpg": "/web-cv/static/media/8.a01829ce.jpg",
     "static/media/avatar.11c5a501.png": "/web-cv/static/media/avatar.11c5a501.png",
     "static/media/creactiveAgencyIMG.d7845ee2.png": "/web-cv/static/media/creactiveAgencyIMG.d7845ee2.png"
   },
@@ -23,6 +25,6 @@
     "static/js/runtime-main.3ed0a5aa.js",
     "static/js/2.64354bab.chunk.js",
     "static/css/main.6c7cee40.chunk.css",
-    "static/js/main.072e4cc4.chunk.js"
+    "static/js/main.2749fe23.chunk.js"
   ]
 }
